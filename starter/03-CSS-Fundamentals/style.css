@@ -1,18 +1,10 @@
 * {
-<<<<<<< HEAD
-  border-top: 10px solid #1098ad;
-}
-
-body {
-  font-family: sans-serif;
-=======
   /* border-top: 10px solid #1098ad; */
   margin: 0;
   padding: 0;
 }
 
 body {
->>>>>>> 7c1ee453d809a3aa06c1b688e7f7f629448f7f89
   color: #444;
   font-family: sans-serif;
   border-top: 10px solid #1098ad;
@@ -98,8 +90,6 @@ li:last-child {
 .related {
   list-style: none;
 }
-
-
 
 li:first-child {
   font-weight: bold;
