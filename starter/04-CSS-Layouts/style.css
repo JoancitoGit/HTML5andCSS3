@@ -223,7 +223,7 @@ h1::first-letter {
   margin-right: 5px;
 }
 
-h3+p::first-line {
+h3 + p::first-line {
   /* color: red; */
 }
 
@@ -328,7 +328,6 @@ footer {
   display: flex;
   align-items: center;
   margin-bottom: 15px;
-
 }
 
 .author {
@@ -363,7 +362,6 @@ footer {
   align-items: flex-start;
   gap: 75px;
   margin-bottom: 60px;
-
 }
 
 article {
